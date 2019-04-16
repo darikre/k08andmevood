@@ -1,0 +1,8 @@
+Kadi 10
+Anu 7
+Petri 10
+Maris 15
+Peeter 17
+Kaido 20
+Norman 25
+Greeta 25
